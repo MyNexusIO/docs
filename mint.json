@@ -74,6 +74,12 @@
       ]
     },
     {
+      "group": "Campaign Guides",
+      "pages": [
+        "campaign/introduction"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
