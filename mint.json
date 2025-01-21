@@ -21,6 +21,9 @@
       "url": "mailto:help@mynexus.io"
     }
   ],
+  "primaryTab": {
+    "name": "Help Center Hub"
+  },
   "topbarCtaButton": {
     "name": "Nexus App",
     "url": "https://app.mynexus.io"
