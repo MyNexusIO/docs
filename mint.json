@@ -55,19 +55,8 @@
       "group": "Nexus Help Center",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "volunteer/introduction",
+        "campaign/introduction"
       ]
     },
     {
@@ -83,14 +72,6 @@
       "group": "Campaign Guides",
       "pages": [
         "campaign/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
